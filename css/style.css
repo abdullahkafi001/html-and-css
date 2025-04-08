@@ -1,0 +1,42 @@
+.header{
+    height: 100px;
+    background-color: blue;
+}
+.wrapper{ overflow: hidden;}
+.blog{
+    float: right;
+height: 30px;
+width: 30%;
+background-color: aqua;
+}
+.contact{
+    float: left;
+    height: 30px;
+    width: 70%;
+    background-color: black;
+}
+.container{
+    overflow: hidden;
+}
+.item1{
+    float: right;
+    height: 50px;
+    width: 34%;
+    background-color: rgb(243, 137, 16);
+}
+.item2{
+    float: left;
+    height: 50px;
+    width: 33%;
+    background-color: rgb(186, 240, 37);
+}
+.item3{
+    float: left;
+    height: 50px;
+    width: 33%;
+    background-color: rgb(161, 17, 245);
+}
+.footer{
+    height: 130px;
+    background-color: rgb(223, 40, 40);
+}
